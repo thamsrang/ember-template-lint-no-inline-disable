@@ -1,0 +1,1 @@
+# ember-template-lint-no-inline-disable
